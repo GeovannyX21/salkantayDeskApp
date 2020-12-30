@@ -1,6 +1,7 @@
  // FUNCIONES PARA ADMINISTRAR LA TABLA DE MESAS 
  const getListTable = async () => {
     let response = await new GetInfoByFetch(url.apimesas).request();
+    
     document.getElementById('container-list-table').innerHTML = " ";
     if (response.length === 0) {
 

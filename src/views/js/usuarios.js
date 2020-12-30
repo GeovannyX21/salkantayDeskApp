@@ -1,5 +1,5 @@
 //FUNCIONES PARA ADMINISTRAR LA TABLA DE CLIENTES 
-    //AUTOS @GIOVANNY
+    //AUTOS @GEOVANNY
 
     // const getListClientes = async () => {
     //     let response = await new GetInfoByFetch(url.urlCliente).request();
